@@ -9,7 +9,12 @@
   table, th, td {
   border: 2px solid black;
   border-collapse: collapse;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
+
  </style> 
 </head>
 <body>
