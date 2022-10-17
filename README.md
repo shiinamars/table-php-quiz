@@ -1,5 +1,4 @@
 # table-php-quiz
 
-Quiz 1
-by Marcella Grace Dulce
-BSIS NS 3A
+Web Programming - Quiz 1
+by Marcella Grace Dulce from BSIS NS 3A
